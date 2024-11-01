@@ -91,6 +91,13 @@ a {
     background: #404bbf;
 }
 
+.content {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 .content-tile {
     font-weight: 500;
     font-size: 20px;
@@ -108,11 +115,6 @@ a {
 }
 
 .hidden {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
     display: none;
 }
 
@@ -123,7 +125,7 @@ background: #f4f4fd;
 .team {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -154,7 +156,7 @@ background: #f4f4fd;
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
